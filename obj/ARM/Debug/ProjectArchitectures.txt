@@ -1,0 +1,1 @@
+C:\Users\Arcadio\Documents\GitHub\TresEnRayaUWP\TresEnRaya.csproj;arm
